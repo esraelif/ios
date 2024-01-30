@@ -24,7 +24,7 @@ body {
   border: 2px solid yellow;
   display: flex;
   flex-direction: column;
-  border-radius: 50px;​
+  border-radius: 50px;
 }
 .display{
     height:250px;
